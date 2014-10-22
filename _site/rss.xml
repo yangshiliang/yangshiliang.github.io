@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>place_your_blog_title_here</title>
-    <link>place_your_blog_url_here</link>
-    <atom:link href="place_your_blog_url_here/rss.xml" rel="self" type="application/rss+xml" />
-    <description>place_your_blog_description_here</description>
-    <language>place_your_blog_language_here</language>
-    <pubDate>Wed, 22 Oct 2014 21:54:33 +0800</pubDate>
-    <lastBuildDate>Wed, 22 Oct 2014 21:54:33 +0800</lastBuildDate>
+    <title>YANG Shiliang's Blog</title>
+    <link>https://yangshiliang.github.io</link>
+    <atom:link href="https://yangshiliang.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <description>YANG Shiliang's Blog</description>
+    <language>English and Chinese</language>
+    <pubDate>Wed, 22 Oct 2014 22:32:59 +0800</pubDate>
+    <lastBuildDate>Wed, 22 Oct 2014 22:32:59 +0800</lastBuildDate>
 
     
   </channel>
