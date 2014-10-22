@@ -6,16 +6,16 @@
     <atom:link href="https://yangshiliang.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>YANG Shiliang's Blog</description>
     <language>zh-cn</language>
-    <pubDate>Wed, 22 Oct 2014 23:43:39 +0800</pubDate>
-    <lastBuildDate>Wed, 22 Oct 2014 23:43:39 +0800</lastBuildDate>
+    <pubDate>Thu, 23 Oct 2014 00:17:32 +0800</pubDate>
+    <lastBuildDate>Thu, 23 Oct 2014 00:17:32 +0800</lastBuildDate>
 
     
     <item>
       <title>Hello World</title>
-      <link>https://yangshiliang.github.io/2014/10/22/Hello_World.html</link>
+      <link>https://yangshiliang.github.io/pl_life/2014/10/22/Hello_World.html</link>
       <pubDate>22 Oct 2014</pubDate>
       <author>YANG Shiliang</author>
-      <guid>https://yangshiliang.github.io/2014/10/22/Hello_World</guid>
+      <guid>https://yangshiliang.github.io/pl_life/2014/10/22/Hello_World</guid>
       <description>&lt;p&gt;Hello World. &lt;/p&gt;
 
 &lt;p&gt;世界，你好。&lt;/p&gt;

@@ -12,11 +12,11 @@ if ($(window).width() <= 1280) {
 
 // Variables
     tag1       = $('.pl__all'),
-    tag2       = $('.life'),
-    tag3       = $('.programming'),
-    tag4       = $('.linux'),
-    tag5       = $('.tools'),
-    tag6       = $('.ic');
+    tag2       = $('.pl_life'),
+    tag3       = $('.pl_programming'),
+    tag4       = $('.pl_linux'),
+    tag5       = $('.pl_tools'),
+    tag6       = $('.pl_ic');
 var sidebar    = $('#sidebar'),
     container  = $('#post'),
     content    = $('#pjax'),

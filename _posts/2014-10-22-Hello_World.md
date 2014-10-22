@@ -1,8 +1,8 @@
 ---
 layout: post
-category: 
+category: [pl_life]
 title: Hello World 
-tags: [life, tools]
+tags: 
 ---
 
 Hello World. 
