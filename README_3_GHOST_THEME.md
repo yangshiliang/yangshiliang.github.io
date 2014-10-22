@@ -1,9 +1,6 @@
-# 3-Ghost Jekyll Theme
+# 3-Jekyll Theme
 
-
-本主题来源于[P233/3-Jekyll](https://github.com/P233/3-Jekyll)。 感谢他提供这样漂亮的主题。
-
-有关本主题的详细内容请阅读[README](https://github.com/yangshiliang/yangshiliang.github.io/blob/master/README.md)。
+欢迎任何改进建议，请直接[提交 issues](https://github.com/P233/3-Jekyll/issues/new)，感谢。
 
 ## 主要功能
 
